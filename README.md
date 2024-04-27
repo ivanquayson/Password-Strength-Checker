@@ -23,4 +23,4 @@ Python
 ## Author
 Ivan Elorm Fugar
 ## Note  📌
-This script is for educational purposes only and should not be used for production password validation. For a more robust password strength checker, consider using a established library or service.
+This script is for educational purposes only and should not be used for production password validation. For a more robust password strength checker, consider using an established library or service.
